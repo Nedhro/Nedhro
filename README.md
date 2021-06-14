@@ -19,8 +19,8 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=nedhro&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedhro&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=nedhro&hide=stars&show_icons=true&theme=dracula&line_height=48?">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedhro&theme=dracula&count_private=true?">
 
 </p>
 
@@ -40,18 +40,3 @@
 ![ViewCount](https://views.whatilearened.today/views/github/nedhro/nedhro.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://www.linkedin.com/in/nidhro/)
 
 </div>
-
-<!--
-**Nedhro/Nedhro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
