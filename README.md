@@ -1,6 +1,6 @@
 <h2> Assalamu Alaikum 👋 </h2>
 
-##### I'm [Mohammad Amdadul Islam Nidhro](https://nedhro.web.app/), I'm an experienced Full Stack Software Engineer with a demonstrated history of working in the information technology industry.
+##### This is [Mohammad Amdadul Islam Nidhro](https://nedhro.web.app/), an experienced Full Stack Software Engineer with a demonstrated history of working in the information technology industry.
 ---
 
 **Familiar with the languages and tools:**
