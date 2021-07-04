@@ -1,6 +1,6 @@
 <h2> Assalamu Alaikum 👋 </h2>
 
-##### This is [Mohammad Amdadul Islam Nidhro](https://nedhro.web.app/), an experienced Full Stack Software Engineer with a demonstrated history of working in the information technology industry. Nidhro is a proactive, result-driven, organized, self-managed, customer-focused Senior Full Stack Software Engineer, expert in Java technologies and interested in advanced technologies as well. Skilled in problem solving, enterprise system design and development.
+##### This is [Mohammad Amdadul Islam Nidhro](https://nedhro.web.app/), an experienced Full Stack Software Engineer with a demonstrated history of working in the information technology industry. Nidhro is a proactive, result-driven, organized, self-managed, customer-focused Senior Full Stack Software Engineer, expert in Java technologies, skilled in JavaScript/TypeScript (Angular, React etc.) and interested in advanced technologies as well. Skilled in problem solving, enterprise system design and development.
 ---
 
 **Familiar with the languages and tools:**
