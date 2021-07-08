@@ -42,16 +42,19 @@
 </p>
 
 ---
-<p align="center">
+<div align="center">
+  <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
-  
+	
+   [![Website Badge](https://img.shields.io/badge/-Nidhro.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://nedhro.web.app/)](https://nedhro.web.app/)
    [![Linkedin Badge](https://img.shields.io/badge/-Nidhro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidhro/)](https://www.linkedin.com/in/nidhro/) 
    [![Gmail Badge](https://img.shields.io/badge/-Nidhro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amdad.dev@gmail.com)](mailto:amdad.dev@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-Nidhro-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/imnidhro/)](https://instagram.com/imnidhro/) 
    [![Facebook Badge](https://img.shields.io/badge/-Nidhro-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nidhro/)](https://www.facebook.com/nidhro/)
 	[![Twitter Badge](https://img.shields.io/badge/-@Nidhro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imnidhro)](https://twitter.com/imnidhro)
-	</p>
----
+  </p>
+</div>
+
 <div align="center">
   
 ![ViewCount](https://views.whatilearened.today/views/github/nedhro/nedhro.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://www.linkedin.com/in/nidhro/)
