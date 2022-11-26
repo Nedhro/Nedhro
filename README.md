@@ -35,9 +35,9 @@
 **Github Stats:**
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=nedhro&hide=stars&show_icons=true&theme=dracula&line_height=48?">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedhro&theme=dracula&count_private=true?">
+	
+  <img src="https://github-readme-stats.vercel.app/api?username=nedhro&show_icons=true&theme=dracula&line_height=40?">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nedhro&theme=dracula&count_private=true?">
 
 </p>
 
