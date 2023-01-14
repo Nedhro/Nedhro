@@ -35,10 +35,11 @@
 **Github Stats:**
 
 <p align="center">
-	
-  <img src="https://github-readme-stats.vercel.app/api?username=nedhro&show_icons=true&theme=dracula&line_height=40?">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nedhro&theme=dracula&count_private=true?">
-
+    
+![Nedhro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedhro&count_private=true&show_icons=true&theme=tokyonight)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedhro)](https://github.com/nedhro/github-readme-stats)
+    
 </p>
 
 ---
