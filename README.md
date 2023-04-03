@@ -34,13 +34,19 @@
 
 **Github Stats:**
 
-<p align="center">
+<div align="center">
     
-![Nedhro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedhro&count_private=true&show_icons=true&theme=tokyonight)
+<!-- ![Nedhro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedhro&count_private=true&show_icons=true&theme=tokyonight)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedhro)](https://github.com/nedhro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedhro)](https://github.com/nedhro/github-readme-stats) -->
+ <p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nedhro&theme=nightowl" />
+    </p>
+<img src="https://github-readme-stats.vercel.app/api?username=nedhro&show_icons=true&count_private=true&theme=nightowl" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nedhro&theme=nightowl" />
     
-</p>
+</div>
 
 ---
 <div align="center">
