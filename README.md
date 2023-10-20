@@ -1,6 +1,20 @@
-<h2> Assalamu Alaikum 👋 </h2>
+## [Mohammad Amdadul Islam Nidhro](https://nedhro.web.app/)👋
 
-##### This is [Mohammad Amdadul Islam Nidhro](https://nedhro.web.app/), an experienced Full Stack Software Engineer with a demonstrated history of working in the information technology industry. Experienced IT professional with over 8 years in the industry, specializing in diverse technologies. Since January 2015, I've navigated through Java, JavaScript, Spring Framework, React, and more, My journey reflects a passion for innovation. Currently serving as a Technical Lead, I blend strategic vision with hands-on expertise to drive successful projects. A mentor at heart, I empower teams and foster collaboration. Committed to excellence, I thrive on solving complex challenges and delivering user-centric solutions. My focus is on translating tech insights into strategic solutions. Passionate about mentorship, I nurture talents to deliver innovation and excellence. My journey is a testament to adaptability and a commitment to shaping cutting-edge solutions.
+**Innovative Technical Leader with 8+ Years of Full Stack Software Engineering Experience**
+
+I am a results-driven Technical Leader with over eight years of experience in the IT industry. My expertise encompasses a broad spectrum of technologies, including Java, JavaScript, Spring, and React. My journey has been marked by a relentless passion for innovation and a consistent drive for excellence.
+
+As a Technical Leader, I have a proven track record of successfully driving projects and fostering collaborative team environments. I excel in solving complex challenges, consistently delivering cutting-edge, user-centric solutions that have a tangible impact. My role as a dedicated mentor has allowed me to empower and nurture teams, resulting in a culture of innovation and excellence.
+
+**Key Qualifications:**
+
+- Proven leadership experience in managing and inspiring cross-functional teams.
+- Expertise in Java, JavaScript, Spring, and React, with a strong ability to leverage these technologies for innovative solutions.
+- Track record of delivering projects on time and within budget, achieving measurable results.
+- Strong commitment to excellence, adaptability, and a visionary approach to technology.
+
+I am eager to bring my extensive experience, technical acumen, and leadership skills to contribute to the continued success of forward-thinking organizations. Let's collaborate to drive innovation and shape the future of technology.
+
 ---
 
 **Familiar with the languages and tools:**
