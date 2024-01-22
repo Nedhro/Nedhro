@@ -1,6 +1,6 @@
 ## [Mohammad Amdadul Islam Nidhro](https://nedhro.web.app/)👋
 
-**Innovative Technical Leader with 8+ Years of Full Stack Software Engineering Experience**
+**Innovative Technical Leader with 9+ Years of Full Stack Software Engineering Experience**
 
 I am a results-driven Technical Leader with over eight years of experience in the IT industry. My expertise encompasses a broad spectrum of technologies, including Java, JavaScript, Spring, and React. My journey has been marked by a relentless passion for innovation and a consistent drive for excellence.
 
