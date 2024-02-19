@@ -2,7 +2,7 @@
 
 **Innovative Technical Leader with 9+ Years of Full Stack Software Engineering Experience**
 
-I am a results-driven Technical Leader with over eight years of experience in the IT industry. My expertise encompasses a broad spectrum of technologies, including Java, JavaScript, Spring, and React. My journey has been marked by a relentless passion for innovation and a consistent drive for excellence.
+I am a results-driven Technical Leader with over nine years of experience in the IT industry. My expertise encompasses a broad spectrum of technologies, including Java, JavaScript, Spring, and React. My journey has been marked by a relentless passion for innovation and a consistent drive for excellence.
 
 As a Technical Leader, I have a proven track record of successfully driving projects and fostering collaborative team environments. I excel in solving complex challenges, consistently delivering cutting-edge, user-centric solutions that have a tangible impact. My role as a dedicated mentor has allowed me to empower and nurture teams, resulting in a culture of innovation and excellence.
 
