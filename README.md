@@ -54,12 +54,9 @@ I am eager to bring my extensive experience, technical acumen, and leadership sk
 **Github Stats:**
 
 <div align="center">
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nedhro&theme=nightowl" />
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=nedhro&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=nedhro&show_icons=true&count_private=true&theme=nightowl" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nedhro&theme=nightowl" />
 </div>
 
 ---
