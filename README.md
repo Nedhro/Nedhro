@@ -8,7 +8,7 @@ With a mindset rooted in innovation and lifelong learning, I go beyond just writ
 
 **Key Qualifications:**
 
-- 10+ years of hands-on experience in enterprise-grade software development.
+- 11+ years of hands-on experience in enterprise-grade software development.
 - Strong leadership in designing and implementing microservices-based architectures.
 - Deep expertise in Java, Spring Boot, React, PostgreSQL, MongoDB, and modern DevOps.
 - Skilled in system design, scalability, and high-performance backend solutions.
