@@ -1,6 +1,6 @@
 ## [Mohammad Amdadul Islam Nidhro](https://nedhro.web.app/)👋
 
-***Building the Future, Engineering Innovation, Empowering the Next Generation Through Code***
+***Building the Future byte by byte, Engineering Innovation, Empowering the Next Generation Through Code***
 
 I’m a visionary **software engineer** with over a decade of proven success in full-stack development and technology leadership. My passion lies in architecting transformative digital solutions that tackle real-world problems with elegance and efficiency. From scalable backend systems with Java and Spring Boot to dynamic frontends with React, I thrive in leveraging the full tech stack to deliver meaningful impact.
 
