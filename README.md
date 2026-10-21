@@ -72,6 +72,7 @@ If you're as passionate about coding, technology, or just want to collaborate on
 [![Facebook Badge](https://img.shields.io/badge/-Nidhro-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nidhro/)](https://www.facebook.com/nidhro/)
 [![Twitter Badge](https://img.shields.io/badge/-@Nidhro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imnidhro)](https://twitter.com/imnidhro)
 </p>
+
 </div>
 
 <div align="center">
