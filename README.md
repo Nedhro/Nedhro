@@ -2,7 +2,7 @@
 
 ***Building the Future byte by byte, Engineering Innovation, Empowering the Next Generation Through Code***
 
-I’m a visionary **software engineer** with over a decade of proven success in full-stack development and technology leadership. My passion lies in architecting transformative digital solutions that tackle real-world problems with elegance and efficiency. From scalable backend systems with Java and Spring Boot to dynamic frontends with React, I thrive in leveraging the full tech stack to deliver meaningful impact.
+I’m a visionary **software architect** with over a decade of proven success in full-stack development and technology leadership. My passion lies in architecting transformative digital solutions that tackle real-world problems with elegance and efficiency. From scalable backend systems with Java and Spring Boot to dynamic frontends with React, I thrive in leveraging the full tech stack to deliver meaningful impact.
 
 With a mindset rooted in innovation and lifelong learning, I go beyond just writing code—I cultivate engineering excellence, mentor future tech leaders, and shape high-impact teams. My career is driven by a mission to build intelligent, future-proof systems while inspiring the next generation of developers to lead with purpose and skill.
 
